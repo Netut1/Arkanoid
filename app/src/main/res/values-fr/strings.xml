@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_level">Niveau : %d</string>
+    <string name="continue_game">Continuer</string>
+    <string name="start_game">Démarrer la partie</string>
+    <string name="score">Score : %d</string>
+    <string name="lives">Vies : %d</string>
+    <string name="back">Dos</string>
+    <string name="record">Enregistrement : %d</string>
+    <string name="record_default">Enregistrement : 0</string>
+    <string name="stuck">Bloqué...</string>
+    <string name="level_completed">Niveau terminé</string>
+    <string name="game_over">Jeu terminé</string>
+    <string name="max_level_default">Niveau : 1</string>
+</resources>

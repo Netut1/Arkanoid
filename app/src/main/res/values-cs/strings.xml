@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_level">Úroveň: %d</string>
+    <string name="continue_game">Pokračovat</string>
+    <string name="start_game">Spustit hru</string>
+    <string name="score">Skóre: %d</string>
+    <string name="lives">Životy: %d</string>
+    <string name="back">Zadní</string>
+    <string name="record">Záznam: %d</string>
+    <string name="record_default">Záznam: 0</string>
+    <string name="stuck">Zaseklý...</string>
+    <string name="level_completed">Úroveň dokončena</string>
+    <string name="game_over">Konec hry</string>
+    <string name="max_level_default">Úroveň: 1</string>
+</resources>

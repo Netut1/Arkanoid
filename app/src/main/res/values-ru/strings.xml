@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_level">Уровень: %d</string>
+    <string name="continue_game">Продолжить</string>
+    <string name="start_game">Начать игру</string>
+    <string name="score">Счёт: %d</string>
+    <string name="lives">Жизни: %d</string>
+    <string name="back">Назад</string>
+    <string name="record">Рекорд: %d</string>
+    <string name="record_default">Рекорд: 0</string>
+    <string name="stuck">Прилипло...</string>
+    <string name="level_completed">Уровень пройден</string>
+    <string name="game_over">Игра окончена</string>
+    <string name="max_level_default">Уровень: 1</string>
+</resources>
