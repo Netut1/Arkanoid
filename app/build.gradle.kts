@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.arkanoid"
+    namespace = "com.netut.arkanoid"
     compileSdk {
         version = release(36)
     }
