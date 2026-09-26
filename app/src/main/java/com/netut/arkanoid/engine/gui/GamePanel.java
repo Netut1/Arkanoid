@@ -11,7 +11,7 @@ import android.view.SurfaceView;
 
 import com.netut.arkanoid.engine.GameEngine;
 import com.netut.arkanoid.engine.GameLoop;
-import com.example.arkanoid.R;
+import com.netut.arkanoid.R;
 import com.netut.arkanoid.engine.GameConstants;
 import com.netut.arkanoid.engine.interfaces.GameEventListener;
 import com.netut.arkanoid.engine.interfaces.InputHandler;

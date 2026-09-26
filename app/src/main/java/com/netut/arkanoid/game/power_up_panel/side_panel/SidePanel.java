@@ -17,7 +17,7 @@ import androidx.vectordrawable.graphics.drawable.VectorDrawableCompat;
 import com.netut.arkanoid.GameActivity;
 import com.netut.arkanoid.engine.GameEngine;
 import com.netut.arkanoid.game.GameState;
-import com.example.arkanoid.R;
+import com.netut.arkanoid.R;
 import com.netut.arkanoid.manager.StateManager;
 import com.netut.arkanoid.game.power_up_panel.power_up.PowerUp;
 import com.netut.arkanoid.game.power_up_panel.power_up.PowerUpSlot;

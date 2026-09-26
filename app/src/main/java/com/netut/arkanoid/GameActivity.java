@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.arkanoid.R;
+import com.netut.arkanoid.R;
 import com.netut.arkanoid.engine.GameEngine;
 import com.netut.arkanoid.engine.gui.GamePanel;
 import com.netut.arkanoid.game.power_up_panel.side_panel.SidePanel;

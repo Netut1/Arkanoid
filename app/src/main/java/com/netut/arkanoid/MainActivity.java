@@ -10,7 +10,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.arkanoid.R;
+import com.netut.arkanoid.R;
 import com.netut.arkanoid.game.entity.brick.BrickTitleColorizer;
 
 public class MainActivity extends AppCompatActivity {

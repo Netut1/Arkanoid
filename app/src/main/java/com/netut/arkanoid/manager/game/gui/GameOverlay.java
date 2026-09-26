@@ -11,7 +11,7 @@ import com.netut.arkanoid.GameActivity;
 import com.netut.arkanoid.engine.GameConstants;
 import com.netut.arkanoid.engine.GameEngine;
 import com.netut.arkanoid.engine.gui.GamePanel;
-import com.example.arkanoid.R;
+import com.netut.arkanoid.R;
 
 public class GameOverlay {
     private final Context context;
