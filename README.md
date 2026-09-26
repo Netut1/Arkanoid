@@ -1,10 +1,10 @@
-#Arkanoid
+# Arkanoid
 
-##Requirements
+## Requirements
 
 1. Android
 2. version upper Tiramissu
 
 
-##Photos
+## Photos
 
