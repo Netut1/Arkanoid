@@ -9,7 +9,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.arkanoid"
+        applicationId = "com.netut.arkanoid"
         minSdk = 28
         targetSdk = 36
         versionCode = 1
