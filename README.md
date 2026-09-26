@@ -7,6 +7,6 @@
 
 
 ## Photos
-<img src="photo_2026-09-26_18-10-31.png">
+<img src="photo_2026-09-26_18-10-31.jpg">
 
-<img src="photo_2026-09-26_18-10-31 (2).png">
+<img src="photo_2026-09-26_18-10-31 (2).jpg">
